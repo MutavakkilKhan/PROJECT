@@ -1,11 +1,11 @@
 import React from 'react';
 import Sidebar from './Components/sidebar';
-import TopBar from './components/TopBar';
-import OverviewCard from './components/OverviewCard';
+import TopBar from './Components/TopBar';
+import OverviewCard from './Components/OverviewCard';
 import ReportUpload from './Components/Report';
-import DeviceCategory from './components/DeviceCategory';
-import CampaignPerformance from './components/CampaignPerformance';
-import TopCountries from './components/TopCountries';
+import DeviceCategory from './Components/DeviceCategory';
+import CampaignPerformance from './Components/CampaignPerformance';
+import TopCountries from './Components/TopCountries';
 
 const Dashboard = () => {
   return (
